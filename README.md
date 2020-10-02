@@ -16,4 +16,4 @@ Excel
 How to calcualte Moving Average?<br>
 How to visualize the trends between local and global average temperatures?<br>
 Plot the chart with local and global temperature trends<br>
-Write up atleast four observations about the similarities and differences in the trends.
+Write up atleast 4 observations about the similarities and differences in the trends.
